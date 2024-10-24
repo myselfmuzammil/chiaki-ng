@@ -35,7 +35,7 @@ class DiscoveryManager
 		const val HOSTS_MAX: ULong = 16U
 		const val DROP_PINGS: ULong = 3U
 		const val PING_MS: ULong = 500U
-		const val PORT = 987
+		const val PORT = 2472
 
 		const val DEBOUNCE_EMPTY_MS = 1000L
 	}
